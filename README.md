@@ -1,8 +1,12 @@
 # Multimodal Graph Induction: Project Respository
 
-This is the project repository for Team A within the NYU-Zillow Capstone collaboration. The code in this repository was produced by Adi Srikanth, Andre Chen, David Roth, and Tanya Naheta. The code is built on proprietary information provided by Zillow Group. 
+This is the project repository for Team A within the NYU-Zillow Capstone collaboration. The code in this repository was produced by Adi Srikanth, Andre Chen, David Roth, and Tanya Naheta. This project was originally built on proprietary information provided by Zillow Group. As such, all data from Zillow has been omitted from this public repository, and we provide results on a similarly formatted open-source multimodal dataset ([MSCOCO](https://cocodataset.org/#download)) instead.
 
-This project was sanctioned and facilitated by the NYU Center for Data Science. 
+This project was sanctioned and facilitated by the NYU Center for Data Science with mentorship from the Zillow Applied Science team.
+
+# Executive Summary
+
+Multimodal graph-based learning approaches can facilitate a better search experience at Zillow, whose data consists of listing images, descriptions, and other metadata. We aimed to use GraphSAGE, an inductive graph representation learning framework, to learn representations using CLIP-initialized node embeddings. Specifically, we trained a 2-layer GraphSAGE model using restricted fanout, mean aggregation, ReLU nonlinearity and batch normalization and experiment with three approaches for connecting new, previously unseen nodes to the training graph during inference. Finally, we evaluated updated node embeddings on a cosine similarity-based image-keyword link prediction task and compare their performance to link prediction using embeddings initialized from a fine-tuned CLIP-ViT/32 as a baseline. We found that increasing connections to keyword labels during training improved GraphSAGE performance relative to baseline, and note that on MS-COCO, a well-known research dataset with human-generated keyword annotations, GraphSAGE generally outperformed our baseline.
 
 # Setup and Environment Overview 
 
