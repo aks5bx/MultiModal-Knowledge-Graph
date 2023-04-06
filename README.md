@@ -1,10 +1,12 @@
-# Multimodal Graph Induction: Project Respository
+# Project Definition 
 
-This is the project repository for Team A within the NYU-Zillow Capstone collaboration. The code in this repository was produced by Adi Srikanth, Andre Chen, David Roth, and Tanya Naheta. This project was originally built on proprietary information provided by Zillow Group. As such, all data from Zillow has been omitted from this public repository, and we provide results on a similarly formatted open-source multimodal dataset ([MSCOCO](https://cocodataset.org/#download)) instead.
-
-This project was sanctioned and facilitated by the NYU Center for Data Science with mentorship from the Zillow Applied Science team.
+This project implements a multi-modal knowledge graph by fine tuning image and text embeddings (CLIP) originally developed by OpenAI. This project was facilitated by the NYU Center for Data Science in partnership with the Zillow Group Applied Science team.
 
 The official poster submitted to the NYU Center for Data Science can be found [here](https://github.com/aks5bx/MultiModal-Knowledge-Graph/blob/main/Capstone%20Poster.pdf)
+
+# Repository Disclaimer
+
+This is the project repository for Team A within the NYU-Zillow Capstone collaboration. The code in this repository was produced by Adi Srikanth, Andre Chen, David Roth, and Tanya Naheta. This project was originally built on proprietary information provided by Zillow Group. As such, all data from Zillow has been omitted from this public repository, and we provide results on a similarly formatted open-source multimodal dataset ([MSCOCO](https://cocodataset.org/#download)) instead.
 
 # Executive Summary
 
