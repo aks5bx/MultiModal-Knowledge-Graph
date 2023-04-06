@@ -4,7 +4,7 @@ This is the project repository for Team A within the NYU-Zillow Capstone collabo
 
 This project was sanctioned and facilitated by the NYU Center for Data Science with mentorship from the Zillow Applied Science team.
 
-The official poster submitted to the NYU Center for Data Science can be found [here](https://github.com/user/repo/blob/branch/other_file.md)
+The official poster submitted to the NYU Center for Data Science can be found [here](https://github.com/aks5bx/MultiModal-Knowledge-Graph/blob/main/Capstone%20Poster.pdf)
 
 # Executive Summary
 
