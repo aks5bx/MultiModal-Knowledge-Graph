@@ -38,12 +38,12 @@ A yml file containing the conda environment used for this project can be found i
 Due to their large sizes, datasets are not included in this repo and should be downloaded locally. Instructions for each dataset are provided below:
 
 ### Zillow Development Dataset
-Zillow development data can be downloaded from this [private Google Drive location](https://drive.google.com/drive/u/0/folders/1lRgFdKi_74Q3a3qLudOrpc6Nd60vGcCZ). 
+Zillow development data can be downloaded from this [private Google Drive location](https://drive.google.com/drive/u/0/folders/1lRgFdKi_74Q3a3qLudOrpc6Nd60vGcCZ) contingent on approved data access. 
 
 The Google Drive folder also contains a high-level data dictionary.
 
 ### Zillow Test Dataset
-Zillow test data can be downloaded from this [private Google Drive location](https://drive.google.com/drive/u/0/folders/17qjTIMBwEmwWSAXvXUAIwLj0C8CfU_zf).
+Zillow test data can be downloaded from this [private Google Drive location](https://drive.google.com/drive/u/0/folders/17qjTIMBwEmwWSAXvXUAIwLj0C8CfU_zf) contingent on approved data access.
 
 ### MSCOCO
 To download zip files of the validation set of images (5000 images total) and annotations respectively, you can run the following commands in your project directory:
