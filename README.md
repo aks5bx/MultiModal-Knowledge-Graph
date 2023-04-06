@@ -6,7 +6,7 @@ The official poster submitted to the NYU Center for Data Science can be found [h
 
 # Repository Disclaimer
 
-This is the project repository for Team A within the NYU-Zillow Capstone collaboration. The code in this repository was produced by Adi Srikanth, Andre Chen, David Roth, and Tanya Naheta. This project was originally built on proprietary information provided by Zillow Group. As such, all data from Zillow has been omitted from this public repository, and we provide results on a similarly formatted open-source multimodal dataset ([MSCOCO](https://cocodataset.org/#download)) instead.
+_This is the project repository for Team A within the NYU-Zillow Capstone collaboration. The code in this repository was produced by Adi Srikanth, Andre Chen, David Roth, and Tanya Naheta. This project was originally built on proprietary information provided by Zillow Group. As such, all data from Zillow has been omitted from this public repository, and we provide results on a similarly formatted open-source multimodal dataset (MSCOCO) instead._
 
 # Executive Summary
 
